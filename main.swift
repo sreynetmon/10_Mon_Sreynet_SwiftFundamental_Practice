@@ -17,5 +17,7 @@ import Foundation
 //runPracticeStruct()
 //runPracticeClass()
 //runPractice07()
-runPractice08()
-
+//runPractice08()
+//runLab1()
+//runLab2()
+runMiniProject()
